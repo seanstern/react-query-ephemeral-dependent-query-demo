@@ -54,6 +54,7 @@ function App() {
   return (
     <>
       <h1>Ephemeral Dependent Query with Mistmatched Keys</h1>
+      <p>See <a href="https://github.com/seanstern/react-query-ephemeral-dependent-query-demo/blob/master/README.md">README</a> for instructions.</p>
       <h3>Selection</h3>
       <label>
         Organism:
